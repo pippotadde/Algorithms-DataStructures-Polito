@@ -1,0 +1,1 @@
+L’esercizio 4 rappresenta una versione equivalente dell’esercizio 3, rispettandone tutte le richieste.
