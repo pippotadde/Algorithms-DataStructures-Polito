@@ -1,0 +1,20 @@
+8
+Rossi Mario 12/03/1950 0/0/0
+Bianchi Laura 05/11/1952 0/0/0
+Verdi Carlo 10/01/1928 15/06/2010
+Neri Sofia 22/09/1930 0/0/0
+Rossi Giulia 20/07/1978 0/0/0
+Rossi Marco 02/02/1980 0/0/0
+Rossi Mario 01/01/1975 0/0/0
+Gallo Anna 10/10/2005 0/0/0
+10
+Rossi Mario 12/03/1950 Rossi Giulia 20/07/1978
+Bianchi Laura 05/11/1952 Rossi Giulia 20/07/1978
+Rossi Mario 12/03/1950 Rossi Marco 02/02/1980
+Bianchi Laura 05/11/1952 Rossi Marco 02/02/1980
+Rossi Mario 12/03/1950 Rossi Mario 01/01/1975
+Bianchi Laura 05/11/1952 Rossi Mario 01/01/1975
+Verdi Carlo 10/01/1928 Bianchi Laura 05/11/1952
+Neri Sofia 22/09/1930 Bianchi Laura 05/11/1952
+Rossi Giulia 20/07/1978 Gallo Anna 10/10/2005
+Rossi Mario 01/01/1975 Gallo Anna 10/10/2005
