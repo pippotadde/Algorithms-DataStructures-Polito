@@ -4,7 +4,8 @@ This repository contains my solutions for the laboratories of the "Algoritmi e S
 ## 📂 Project Structure
 * **Block 1 (`s326596_1`)**: Labs 01-03
 * **Block 2 (`s326596_2`)**: Labs 04-06
-* **Block 3 (`s326596_3`)**: Labs 07-09 
+* **Block 3 (`s326596_3`)**: Labs 07-09
+* **Exam:** 16/01/2026
 
 ## 🛠 Skills & Tools
 * **Language**: C (C99 Standard)
